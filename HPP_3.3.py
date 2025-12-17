@@ -417,7 +417,7 @@ def show_enhanced_model_information(model_package):
     
     with col2:
         st.subheader("📊 Dataset Information")
-        st.write("**Total Samples:** 545 properties")
+        st.write("**Total Samples:** 999+ properties")
         st.write("**Features Used:** 12 core features")
         st.write("**Data Source:** Delhi Real Estate Market")
         st.write("**Training Period:** Recent market data")
@@ -613,7 +613,8 @@ def show_about_support():
         
         **Model Information:**
         - Version: HPP_Model_3.2.5
-        - Last Updated: 30-10-2025
+        - Release Date: 3-10-2025
+        - Last Updated: 16-12-2025
         - Accuracy: > 90% R² Score
         - Coverage: Entire Delhi NCR
         
