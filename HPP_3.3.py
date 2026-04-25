@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 # Set page configuration
 st.set_page_config(
     page_title="Delhi House Price Predictor",
-    page_icon="🏠",
+    page_icon="🛐",
     layout="wide",
     initial_sidebar_state="expanded"
 )
