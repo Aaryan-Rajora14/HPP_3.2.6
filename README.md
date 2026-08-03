@@ -184,9 +184,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Open-source contributors to Python data science ecosystem
 
 ---
-
 **⭐ If you find this project helpful, please give it a star! ⭐**
-
 ---
 
 *Note: This application is for educational and demonstration purposes. Actual real estate transactions should involve professional valuation services.*
+
