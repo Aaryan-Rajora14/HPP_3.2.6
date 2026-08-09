@@ -5,5 +5,3 @@ scikit-learn
 Pillow
 joblib
 wheel
-plotly
-matplotlib
