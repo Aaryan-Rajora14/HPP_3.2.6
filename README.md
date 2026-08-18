@@ -42,7 +42,7 @@ An advanced machine learning web application for accurate property price valuati
 ## 📦 Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.9+
 - pip package manager
 
 ### Setup Instructions
@@ -188,4 +188,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 *Note: This application is for educational and demonstration purposes. Actual real estate transactions should involve professional valuation services.*
-
