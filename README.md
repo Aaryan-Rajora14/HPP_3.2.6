@@ -121,7 +121,7 @@ delhi-house-price-predictor/
 6. Air Conditioning
 7. Parking Spaces
 8. Main Road Access
-9. And 4 more features...
+9. And 4 more features.....
 
 ### Preprocessing
 - Custom Label Encoding for categorical features
