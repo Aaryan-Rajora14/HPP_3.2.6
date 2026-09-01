@@ -5,4 +5,4 @@ scikit-learn
 Pillow
 joblib
 wheel
-render is required 
+render is not required 
