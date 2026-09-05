@@ -113,7 +113,7 @@ st.markdown("""
 # Load the model
 @st.cache_resource
 def load_model():
-    model_package = joblib.load("models\HPP_Model_3.2.pkl")
+    model_package = joblib.load("HPP_Model_3.2.pkl")
     return model_package
 
 def format_currency_full(amount):
