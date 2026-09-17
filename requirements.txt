@@ -1,8 +1,8 @@
 streamlit
 pandas
-numpy==1.26.4
-scikit-learn==1.3.2
+numpy>=1.26.4,<2.2
+scikit-learn==1.5.2
+joblib>=1.3.0
 Pillow
-joblib
-wheel
 plotly
+wheel
