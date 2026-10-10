@@ -187,4 +187,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **⭐ If you find this project helpful, please give it a star! **
 ---
 
-*Note: This application is for educational and demonstration purposes. Actual real estate transactions should involve professional valuation service.*
+*Note: This application is for educational and demonstration purposes. Actual real estate transactions should involve professional valuation service. But I keep update the model with new data in every 6 months.*
