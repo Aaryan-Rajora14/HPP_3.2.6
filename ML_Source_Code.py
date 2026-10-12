@@ -10,6 +10,8 @@ import joblib
 import warnings
 warnings.filterwarnings('ignore')
 
+import matplotlib.pyplot as plt
+
 # Load the data
 df = pd.read_csv('delhi_houses (1).csv')
 
